@@ -1,1 +1,12 @@
-(empty)
+Package: com.devin.snapchatpatch
+Name: Snapchat Patch
+Version: 4.2.0-1
+Architecture: iphoneos-arm64
+Description: A tweak for Snapchat by DEVIN
+Maintainer: DEVIN-65
+Author: Devin
+Section: Tweaks
+Filename: debs/com.devin.snapchatpatch_4.2.0-1+debug_iphoneos-arm64.deb
+Size: 12448
+MD5sum: 9a04d3cb6a649c90cb0dbbfbb2bd6df9
+SHA256: 8dc565021c85c9bb9fc8858deacba5d59bfc108401b0a66c50cfbf9bdb6a3245
